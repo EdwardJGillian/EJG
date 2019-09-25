@@ -6,6 +6,8 @@
 
 `Questionnaire handout.docx` is a handout giving information on how to write a questionnaire.
 
+`Bloom Taxonomy - levels verbs examples.docx` is a handout giving information about questions designed according to Bloom's revised taxonomy for two radio transcripts.
+
 `English street abbreviations.docx` is a job aid to help students remember street abbreviations while writing cover letters.
 
 `Description - Adjective Order - Polish English - short.docx` is a quick reference card about the order of English adjectives.
