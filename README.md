@@ -2,6 +2,8 @@
 
 `English e-learning tool login details.docx` contains the login details to explore my e-learning tool.
 
+`ELTJ Teaching English articles through e-learning.pdf` is an academic article that explains some of the key teaching elements in the e-learning tool such as Master's binary schema, explicit instruction, chunking, and direct feedback.
+
 `Questionnaire handout.docx` is a handout giving information on how to write a questionnaire.
 
 `English street abbreviations.docx` is a job aid to help students remember street abbreviations while writing cover letters.
