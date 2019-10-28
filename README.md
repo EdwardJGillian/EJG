@@ -1,3 +1,3 @@
-# Writing Portfolio
+# Data Scientist Interested in NLP, financial algorithms
 
-## This folder has examples of my writing
+
